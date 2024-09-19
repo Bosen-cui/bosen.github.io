@@ -11,7 +11,8 @@ I am a fourth-year Ph.D. candidate in the Department of Statistics and Data Scie
 
 Prior to my Ph.D. studies in Singapore, I earned a Bachelor of Science in Statistics from Harbin Institute of Technology.
 
-You can view my CV [here]((https://github.com/Bosen-cui/bosen.github.io/blob/master/assets/CV.pdf)).
+You can view my CV [here](https://github.com/Bosen-cui/bosen.github.io/blob/master/assets/CV.pdf).
+
 
 
 A data-driven personal website
